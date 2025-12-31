@@ -23,7 +23,6 @@ This is a resume generator application built as a project in the [Python and Dja
 - **PDF Generation**: Generate professionally formatted PDF resumes using ReportLab
 - **Custom Styling**: Enhanced PDF styling with custom fonts, colors, and spacing for polished output
 - **Download Functionality**: Download generated resumes as PDF files with proper filenames
-- **Admin Panel**: Django admin interface for managing profiles
 
 ## Technical Stack
 
